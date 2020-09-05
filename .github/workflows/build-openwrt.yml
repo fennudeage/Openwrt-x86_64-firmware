@@ -34,8 +34,8 @@ env:
   SSH_ACTIONS: yes
   UPLOAD_BIN_DIR: false
   UPLOAD_FIRMWARE: true
-  UPLOAD_COWTRANSFER: yes
-  UPLOAD_WETRANSFER: yes
+  UPLOAD_COWTRANSFER: true
+  UPLOAD_WETRANSFER: true
   TZ: Asia/Shanghai
 
 jobs:
